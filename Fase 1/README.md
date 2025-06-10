@@ -2,9 +2,11 @@
 
 > **Fase 1 – Levantamento de Interesse e Preferências**
 >
-> 📍 Público-alvo: Foram entrevistadas 40 pessoas da comunidade local em torno da Nave do Conhecimento Engenhão e da Estação de Trem Engenho de Dentro.
-> 📅 Período da pesquisa: [15/05/2025 a 02/06/2025]
-> 🔍 Objetivo: Identificar o interesse e os cursos mais desejados para criar um aplicativo que ofereça uma formação gratuita e acessível via celular.
+> 📍 **Público-alvo**: Foram entrevistadas 40 pessoas da comunidade local em torno da Nave do Conhecimento Engenhão e da Estação de Trem Engenho de Dentro.
+>
+> 📅 **Período da pesquisa**: [15/05/2025 a 02/06/2025].
+>
+> 🔍 **Objetivo**: Identificar o interesse e os cursos mais desejados para criar um aplicativo que ofereça uma formação gratuita e acessível via celular.
 
 ---
 
